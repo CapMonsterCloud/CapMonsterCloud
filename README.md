@@ -116,7 +116,7 @@ approximate as of 2025; check official site for latest):
 | FunCaptcha                      | $2.00 |
 | Yidun                           | $1.00 |
 
-** Features **
+**Features**
 
 -   Proxy included in price where needed.
 
@@ -137,19 +137,14 @@ Challenge, and more.
 services?**
 
 -   **Reliability and scalability**: the system works stably under any load, handles large volumes of tasks, and scales as your project grows.
-
 -   **Built-in proxies**: in most cases, you won't need to connect your own proxies.
-
 -   **No software installation required**: all you need is an internet connection and your API key.
-
 -   **Support for all major captcha types**: from popular to rare and non-standard types.
-
 -   **Flexible and transparent pricing**: suitable for both small businesses and large-scale projects.
 
 **How do I get started with CapMonster Cloud?**
 
-1.  Register on the
-    > [[website]{.underline}](https://capmonster.cloud/auth?utm_source=github&utm_medium=community&utm_campaign=github).
+1.  Register on the [website](https://capmonster.cloud/auth?utm_source=github&utm_medium=community&utm_campaign=github).
 
 2.  Top up your balance.
 
@@ -167,6 +162,7 @@ does not meet your needs.
 Yes, a \$0,1 test balance is provided upon request to support.
 ZennoPoster users also receive a bonus of 5,000 free captchas for
 testing the service.
+
 
 
 
