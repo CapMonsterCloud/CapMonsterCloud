@@ -49,21 +49,13 @@ Documentation:
 # Why CapMonster Cloud
 
 -   Stability. Automatic solving under heavy loads without interruptions.
-
 -   Maximum Accuracy. Up to 99% success rate, even with complex CAPTCHA types.
-
 -   Scalability. Easily handles increasing loads while maintaining speed and stability.
-
 -   Quick Start. Ready-to-use libraries, code examples, and browser extensions.
-
 -   Affiliate Program. Earn reward from integrated users.
-
 -   Bonus Program. Up to 15% bonus or balance based on solved volume.
-
 -   Transparent Pricing. Pay only for successful solves.
-
 -   Trusted by Leaders. Used by 1000+ companies worldwide.
-
 -   Support. Fast, responsive help and setup assistance.
 
 # Supported CAPTCHA Types
@@ -72,49 +64,27 @@ CapMonster Cloud supports a wide range of popular and complex CAPTCHA
 types:
 
 -   reCAPTCHA v2
-
 -   reCAPTCHA v3
-
 -   reCAPTCHA v2 Enterprise
-
 -   reCAPTCHA v3 Enterprise
-
 -   GeeTest V3
-
 -   GeeTest V4
-
 -   Cloudflare Turnstile
-
 -   Cloudflare Challenge
-
 -   Cloudflare Waiting Room
-
 -   DataDome
-
 -   Tencent CAPTCHA
-
 -   Amazon Waf
-
 -   Faucet Pay
-
 -   Imperva (Incapsula)
-
 -   Prosopo
-
 -   Text CAPTCHA
-
 -   Temu
-
 -   Yidun
-
 -   MTCaptcha
-
 -   Altcha
-
 -   Funcaptcha
-
 -   Binance CAPTCHA
-
 -   ComplexImage
 
 For the full up-to-date list and detailed integration guides, visit the documentation.
@@ -124,47 +94,29 @@ For the full up-to-date list and detailed integration guides, visit the document
 Pay-as-you-go model charges per 1,0000 successful solves (prices
 approximate as of 2025; check official site for latest):
 
-  -----------------------------------------------------------------------
-  reCAPTCHA v2                        \$0.04-\$0.60
-  ----------------------------------- -----------------------------------
-  reCAPTCHA v3                        \$0.90
+| CAPTCHA Type                    | Price (USD) |
+|---------------------------------|-------------|
+| reCAPTCHA v2                    | $0.04 – $0.60 |
+| reCAPTCHA v3                    | $0.90 |
+| reCAPTCHA v2 Enterprise         | $0.04 – $1.00 |
+| reCAPTCHA v3 Enterprise         | $1.50 |
+| GeeTest                         | $1.20 |
+| Cloudflare Turnstile            | $1.30 |
+| Cloudflare Bot Challenge        | $1.30 |
+| DataDome                        | $2.20 |
+| Tencent CAPTCHA                 | $1.60 |
+| Amazon WAF                      | $1.40 |
+| FaucetPay                       | $1.00 |
+| Imperva (Incapsula)             | $2.00 |
+| Prosopo                         | $1.30 |
+| Text CAPTCHA                    | $0.30 |
+| Temu                            | $2.00 |
+| MTCaptcha                       | $1.50 |
+| Altcha                          | $0.80 |
+| FunCaptcha                      | $2.00 |
+| Yidun                           | $1.00 |
 
-  reCAPTCHA v2 Enterprise             \$0.04-\$1.00
-
-  reCAPTCHA v3 Enterprise             \$1.50
-
-  GeeTest                             \$1.20
-
-  Cloudflare Turnstile                \$1.30
-
-  Cloudflare Bot Challenge            \$1.30
-
-  DataDome                            \$2.20
-
-  Tencent CAPTCHA                     \$1.60
-
-  Amazon Waf                          \$1.40
-
-  Faucet Pay                          \$1.00
-
-  Imperva (Incapsula)                 \$2.00
-
-  Prosopo                             \$1.30
-
-  Text CAPTCHA                        \$0.30
-
-  Temu                                \$2.00
-
-  MTCaptcha                           \$1.50
-
-  Altcha                              \$0.80
-
-  Funcaptcha                          \$2.00
-
-  Yidun                               \$1.00
-  -----------------------------------------------------------------------
-
-# Features
+** Features **
 
 -   Proxy included in price where needed.
 
@@ -215,6 +167,7 @@ does not meet your needs.
 Yes, a \$0,1 test balance is provided upon request to support.
 ZennoPoster users also receive a bonus of 5,000 free captchas for
 testing the service.
+
 
 
 
