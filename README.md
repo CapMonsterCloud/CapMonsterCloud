@@ -30,9 +30,9 @@ services or additional software.
 From small automation scripts to large-scale data operations, CapMonster
 Cloud helps teams move faster by removing CAPTCHA-related friction.
 
-Official website:
+Official website:https://capmonster.cloud/auth?utm_source=github&utm_medium=community&utm_campaign=github
 
-Documentation:
+Documentation:https://docs.capmonster.cloud/docs/getting-start/?utm_source=github&utm_medium=community&utm_campaign=github
 
 # Features
 
@@ -162,6 +162,7 @@ does not meet your needs.
 Yes, a \$0,1 test balance is provided upon request to support.
 ZennoPoster users also receive a bonus of 5,000 free captchas for
 testing the service.
+
 
 
 
