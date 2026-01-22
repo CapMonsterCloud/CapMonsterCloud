@@ -1,6 +1,6 @@
-**CapMonster Cloud**
+# CapMonster Cloud
 
-CapMonster Cloud is a cloud-based service that helps you solve CAPTCHAs
+[CapMonster Cloud](https://capmonster.cloud/auth?utm_source=github&utm_medium=community&utm_campaign=github) is a cloud-based service that helps you solve CAPTCHAs
 automatically. It handles common and advanced CAPTCHA types using AI, so
 you don't have to. Just send a request, get a result, and keep your
 automation running smoothie.
@@ -48,17 +48,13 @@ Documentation:
   
 # Why CapMonster Cloud
 
--   Stability. Automatic solving under heavy loads without
-    > interruptions.
+-   Stability. Automatic solving under heavy loads without interruptions.
 
--   Maximum Accuracy. Up to 99% success rate, even with complex CAPTCHA
-    > types.
+-   Maximum Accuracy. Up to 99% success rate, even with complex CAPTCHA types.
 
--   Scalability. Easily handles increasing loads while maintaining speed
-    > and stability.
+-   Scalability. Easily handles increasing loads while maintaining speed and stability.
 
--   Quick Start. Ready-to-use libraries, code examples, and browser
-    > extensions.
+-   Quick Start. Ready-to-use libraries, code examples, and browser extensions.
 
 -   Affiliate Program. Earn reward from integrated users.
 
@@ -121,8 +117,7 @@ types:
 
 -   ComplexImage
 
-For the full up-to-date list and detailed integration guides, visit the
-documentation.
+For the full up-to-date list and detailed integration guides, visit the documentation.
 
 # Pricing
 
@@ -169,7 +164,7 @@ approximate as of 2025; check official site for latest):
   Yidun                               \$1.00
   -----------------------------------------------------------------------
 
-Features:
+# Features
 
 -   Proxy included in price where needed.
 
@@ -189,21 +184,15 @@ Challenge, and more.
 **How does CapMonster Cloud differ from other captcha recognition
 services?**
 
--   **Reliability and scalability**: the system works stably under any
-    > load, handles large volumes of tasks, and scales as your project
-    > grows.
+-   **Reliability and scalability**: the system works stably under any load, handles large volumes of tasks, and scales as your project grows.
 
--   **Built-in proxies**: in most cases, you won't need to connect your
-    > own proxies.
+-   **Built-in proxies**: in most cases, you won't need to connect your own proxies.
 
--   **No software installation required**: all you need is an internet
-    > connection and your API key.
+-   **No software installation required**: all you need is an internet connection and your API key.
 
--   **Support for all major captcha types**: from popular to rare and
-    > non-standard types.
+-   **Support for all major captcha types**: from popular to rare and non-standard types.
 
--   **Flexible and transparent pricing**: suitable for both small
-    > businesses and large-scale projects.
+-   **Flexible and transparent pricing**: suitable for both small businesses and large-scale projects.
 
 **How do I get started with CapMonster Cloud?**
 
@@ -226,5 +215,6 @@ does not meet your needs.
 Yes, a \$0,1 test balance is provided upon request to support.
 ZennoPoster users also receive a bonus of 5,000 free captchas for
 testing the service.
+
 
 
