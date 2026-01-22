@@ -10,8 +10,7 @@ height="2.2777777777777777in"}
 
 # About
 
-[[CapMonster
-Cloud]{.underline}](https://capmonster.cloud/auth?utm_source=github&utm_medium=community&utm_campaign=github)
+[CapMonster Cloud](https://capmonster.cloud/auth?utm_source=github&utm_medium=community&utm_campaign=github)
 is a cloud-based CAPTCHA solver.
 
 It uses AI to automatically solve CAPTCHAs, so you don't need manual
@@ -38,31 +37,16 @@ Documentation:
 
 # Features
 
--   High Speed & Accuracy. Most CAPTCHAs are solved in 1-10 seconds with
-    > up to 99% success rate.
-
--   AI-Powered Recognition. Advanced algorithms handle complex and
-    > evolving CAPTCHA types.
-
--   [[Browser
-    > Extensions]{.underline}](https://capmonster.cloud/extension?utm_source=github&utm_medium=community&utm_campaign=github).
-    > Automatic background solving in Chrome and Firefox.
-
--   Easy API Integration. Ready-to-use client libraries for Python,
-    > JavaScript/Node.js, C#, and more.
-
--   Compatibility with Other APIs
-
--   Scalability. Handles high loads stably, ideal for large-scale
-    > projects.
-
--   Transparent Billing. Pay only for results; no hidden fees.
-
--   24/7 Support. Fast and responsive assistance for integration and
-    > issues.
-
--   Bonus & Affiliate Programs. Earn bonuses on volume and referrals.
-
+- High Speed & Accuracy — most CAPTCHAs are solved in 1–10 seconds with up to 99% success rate.
+- AI-Powered Recognition — advanced algorithms handle complex and evolving CAPTCHA types.
+- [Browser Extensions](https://capmonster.cloud/extension?utm_source=github&utm_medium=community&utm_campaign=github) — automatic background solving in Chrome and Firefox.
+- Easy API Integration — ready-to-use client libraries for Python, JavaScript / Node.js, C#, and more.
+- Compatibility with Other APIs — seamless integration with existing automation workflows.
+- Scalability — handles high loads stably, ideal for large-scale projects.
+- Transparent Billing — pay only for results, no hidden fees.
+- 24/7 Support — fast and responsive assistance for integration and issues.
+- Bonus & Affiliate Programs — earn bonuses on volume and referrals.
+  
 # Why CapMonster Cloud
 
 -   Stability. Automatic solving under heavy loads without
@@ -243,3 +227,4 @@ does not meet your needs.
 Yes, a \$0,1 test balance is provided upon request to support.
 ZennoPoster users also receive a bonus of 5,000 free captchas for
 testing the service.
+
