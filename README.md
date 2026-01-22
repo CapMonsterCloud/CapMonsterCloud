@@ -5,8 +5,7 @@ automatically. It handles common and advanced CAPTCHA types using AI, so
 you don't have to. Just send a request, get a result, and keep your
 automation running smoothie.
 
-![](./image1.png){width="6.267716535433071in"
-height="2.2777777777777777in"}
+![](./image1.png)
 
 # About
 
@@ -227,4 +226,5 @@ does not meet your needs.
 Yes, a \$0,1 test balance is provided upon request to support.
 ZennoPoster users also receive a bonus of 5,000 free captchas for
 testing the service.
+
 
