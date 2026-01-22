@@ -114,9 +114,7 @@ approximate as of 2025; check official site for latest):
 **Features**
 
 -   Proxy included in price where needed.
-
 -   Bonus: Up to 15% added to balance based on monthly volume.
-
 -   Minimum deposit: Low
 
 # FAQ
@@ -140,9 +138,7 @@ services?**
 **How do I get started with CapMonster Cloud?**
 
 1.  Register on the [website](https://capmonster.cloud/auth?utm_source=github&utm_medium=community&utm_campaign=github).
-
 2.  Top up your balance.
-
 3.  Use your personal API key to integrate with your project.
 
 You can also download the CapMonster Cloud browser extension.
@@ -157,6 +153,7 @@ does not meet your needs.
 Yes, a \$0,1 test balance is provided upon request to support.
 ZennoPoster users also receive a bonus of 5,000 free captchas for
 testing the service.
+
 
 
 
