@@ -81,6 +81,10 @@ types:
 -   Funcaptcha
 -   Binance CAPTCHA
 -   ComplexImage
+-   MTCaptcha
+-   Castle
+-   TSPD
+-   Hunt
 
 For the full up-to-date list and detailed integration guides, visit the documentation.
 
@@ -110,6 +114,8 @@ approximate as of 2025; check official site for latest):
 | Altcha                          | $0.80 |
 | FunCaptcha                      | $2.00 |
 | Yidun                           | $1.00 |
+| Hunt                            | $1.00 |
+| TSPD                            | $0.5  |
 
 **Features**
 
@@ -153,6 +159,7 @@ does not meet your needs.
 Yes, a \$0,1 test balance is provided upon request to support.
 ZennoPoster users also receive a bonus of 5,000 free captchas for
 testing the service.
+
 
 
 
