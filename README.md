@@ -16,6 +16,8 @@ API, SDKs, integrations, and documentation for working with the CapMonster Cloud
 | n8n integration | [n8n-capmonstercloud-node](https://github.com/CapMonsterCloud/n8n-capmonstercloud-node) |
 | Documentation source | [docs](https://github.com/CapMonsterCloud/docs) |
 
+Need to test before depositing? Contact support and we’ll add trial credits to your account.
+
 ## What CapMonster Cloud provides
 
 - API access for creating CAPTCHA tasks and receiving solutions
