@@ -1,11 +1,12 @@
 # CapMonster Cloud
 
-API, SDKs, integrations, and documentation for working with the CapMonster Cloud CAPTCHA-solving service.
+Developer home for the CapMonster Cloud API, official SDKs, documentation, and integrations.
 
 ## Start here
 
 | What you need | Link |
 |---|---|
+| Main site | [capmonster.cloud](https://capmonster.cloud/) |
 | Developer documentation | [docs.capmonster.cloud](https://docs.capmonster.cloud/) |
 | API key / dashboard | [dash.capmonster.cloud](https://dash.capmonster.cloud/) |
 | JavaScript / Node.js SDK | [client-js](https://github.com/CapMonsterCloud/client-js) |
