@@ -19,7 +19,7 @@ Additional SDKs: [client-go](https://github.com/CapMonsterCloud/client-go), [cli
 
 Documentation source: [docs](https://github.com/CapMonsterCloud/docs)
 
-Want to test before depositing? Contact support and we’ll add trial credits to your account.
+Need to test before depositing? Contact support and we’ll add trial credits to your account.
 
 ## What CapMonster Cloud provides
 
