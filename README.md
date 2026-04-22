@@ -1,23 +1,25 @@
 # CapMonster Cloud
 
-Developer home for the CapMonster Cloud API, official SDKs, documentation, and integrations.
+Official GitHub profile for CapMonster Cloud developer resources.
+Start with the docs, then choose the SDK or integration for your stack.
 
 ## Start here
 
-| What you need | Link |
+| Recommended path | Link |
 |---|---|
-| Main site | [capmonster.cloud](https://capmonster.cloud/) |
-| Developer documentation | [docs.capmonster.cloud](https://docs.capmonster.cloud/) |
-| API key / dashboard | [dash.capmonster.cloud](https://dash.capmonster.cloud/) |
+| Developer documentation (start here) | [docs.capmonster.cloud](https://docs.capmonster.cloud/) |
 | JavaScript / Node.js SDK | [client-js](https://github.com/CapMonsterCloud/client-js) |
 | Python SDK | [client-python](https://github.com/CapMonsterCloud/client-python) |
 | .NET SDK | [client-dotnet](https://github.com/CapMonsterCloud/client-dotnet) |
-| Go SDK | [client-go](https://github.com/CapMonsterCloud/client-go) |
-| PHP SDK | [client-php](https://github.com/CapMonsterCloud/client-php) |
 | n8n integration | [n8n-capmonstercloud-node](https://github.com/CapMonsterCloud/n8n-capmonstercloud-node) |
-| Documentation source | [docs](https://github.com/CapMonsterCloud/docs) |
+| Main site | [capmonster.cloud](https://capmonster.cloud/) |
+| API key / dashboard | [dash.capmonster.cloud](https://dash.capmonster.cloud/) |
 
-💵 Want to test before depositing? Contact support and we’ll add trial credits to your account.
+Additional SDKs: [client-go](https://github.com/CapMonsterCloud/client-go), [client-php](https://github.com/CapMonsterCloud/client-php)
+
+Documentation source: [docs](https://github.com/CapMonsterCloud/docs)
+
+Want to test before depositing? Contact support and we’ll add trial credits to your account.
 
 ## What CapMonster Cloud provides
 
@@ -37,9 +39,5 @@ Developer home for the CapMonster Cloud API, official SDKs, documentation, and i
 ## Repositories
 
 - [docs](https://github.com/CapMonsterCloud/docs): source for the public documentation site
-- [client-js](https://github.com/CapMonsterCloud/client-js): JavaScript / Node.js client
-- [client-python](https://github.com/CapMonsterCloud/client-python): Python client
-- [client-dotnet](https://github.com/CapMonsterCloud/client-dotnet): .NET client
-- [client-go](https://github.com/CapMonsterCloud/client-go): Go client
-- [client-php](https://github.com/CapMonsterCloud/client-php): PHP client
-- [n8n-capmonstercloud-node](https://github.com/CapMonsterCloud/n8n-capmonstercloud-node): n8n community node
+- [client-go](https://github.com/CapMonsterCloud/client-go): Go SDK
+- [client-php](https://github.com/CapMonsterCloud/client-php): PHP SDK
